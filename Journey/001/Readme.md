@@ -2,8 +2,11 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- ✍️ Setup the challenge repository here
+- ✍️ Continued studying VPC
+- ✍️ Learned about NAT Instances and NAT Gateways
+- ✍️ Covered Bastions, VPC Flow Logs and Direct Connect
 
 ## Social Proof
 
-✍️ [Tweet](link)
+✍️ [Tweet](https://twitter.com/afraz_momin/status/1287816442021175296?s=20)

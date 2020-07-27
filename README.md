@@ -13,14 +13,14 @@
 
 ## ✍️ Afraz's Cloud Journey
 
-✍️ Hi, I'm Afraz! I'm a Software Developer based in Pune, India
+👋 Hi, I'm Afraz! I'm a Software Developer based in Pune, India
 
-✍️ Looking to better my skills and learn different Cloud Technologies. I have been learning cloud for a while now but consistency was an issue but, hopefully, with this challenge it won't be a problem!
+💻 Looking to better my skills and explore different Cloud Technologies. I have been learning cloud for a while now but consistency was an issue. Hopefully, with this challenge it won't be a problem!
 
-✍️ The goal is to be #AWSCertified
+🏆 The goal is to be #AWSCertified
 
-- [✍️ @afraz_momin](https://twitter.com/afraz_momin)
-- [✍️ LinkedIn](https://www.linkedin.com/in/afrazm7)
+- Follow my cloud journey on Twitter at [@afraz_momin](https://twitter.com/afraz_momin)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/afrazm7)
 
 ## Stepping out the door
 
