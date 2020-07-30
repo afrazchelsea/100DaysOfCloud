@@ -27,7 +27,7 @@
 - [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [x] ☁️ 2 > [Continued with VPC](Journey/002/Readme.md)
 - [x] ☁️ 3 > [Took a VPC Quiz](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [x] ☁️ 4 > [HA Architecture](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
