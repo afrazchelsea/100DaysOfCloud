@@ -29,7 +29,7 @@
 - [x] ☁️ 3 > [Took a VPC Quiz](Journey/003/Readme.md)
 - [x] ☁️ 4 > [HA Architecture](Journey/004/Readme.md)
 - [x] ☁️ 5 > [HA Architecture Quiz](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [x] ☁️ 6 > [Applications on AWS](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
