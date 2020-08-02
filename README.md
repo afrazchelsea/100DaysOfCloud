@@ -30,7 +30,7 @@
 - [x] ☁️ 4 > [HA Architecture](Journey/004/Readme.md)
 - [x] ☁️ 5 > [HA Architecture Quiz](Journey/005/Readme.md)
 - [x] ☁️ 6 > [Applications on AWS](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [x] ☁️ 7 > [Quiz on Applications](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
