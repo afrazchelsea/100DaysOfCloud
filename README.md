@@ -32,7 +32,7 @@
 - [x] ☁️ 6 > [Applications on AWS](Journey/006/Readme.md)
 - [x] ☁️ 7 > [Quiz on Applications](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Security in AWS](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [x] ☁️ 9 > [Serverless!](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
